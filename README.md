@@ -388,7 +388,7 @@ public class DatabaseManager {
     }
 }
 ```
-DatabaseHelper.java
+## DatabaseHelper.java
 ```
 package com.example.pmdex1;
 
